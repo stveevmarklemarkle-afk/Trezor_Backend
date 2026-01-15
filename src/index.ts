@@ -11,7 +11,12 @@ const PORT = process.env.PORT || 3000;
 // Middleware 
 app.use(cors({
     origin: ["http://localhost:3000",
-      ''
+        // Neeraj
+        'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
+
+        // Ram
+        'https://trezor-website-gules-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app'
+
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     credentials: true,
