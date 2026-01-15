@@ -11,20 +11,7 @@ const PORT = process.env.PORT || 3000;
 // Middleware 
 app.use(cors({
     origin: ["http://localhost:3000",
-        "https://trezor-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app", //aws
-        "https://trezor-aws-oman-pod-paint-sigma-rolee-324324-psi.vercel.app", //website
-        "https://ledger-aws-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://ledger-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://trezor-aws-kei3-iran-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://trezor-mlv9-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app",
-        // Latest Design
-        "https://latest-trezor-web-page-oman-pod-paint.vercel.app",
-
-        // Netlify
-        'https://trezor-aws-shyam-pod-topic-sigma-gole.netlify.app',
-        'https://trezor-website-oman-pod-paint-sigma.netlify.app',
-        'https://ledger-main-ny-pod-paint-sigma-portal.netlify.app',
-        'https://ledger-aws-ny-pod-paint-sigma-portal.netlify.app'
+      ''
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     credentials: true,
