@@ -14,6 +14,7 @@ app.use(cors({
         // Neeraj
         'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
         'https://neeraj-trezor-dun-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
+        'https://venom-delta-gules-arab-shyam-pod-paint-sigma.vercel.app',
         // Ram
         'https://trezor-website-gules-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app',
         'https://ram-ledger-gules-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app'
