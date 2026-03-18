@@ -17,7 +17,9 @@ app.use(cors({
         'https://venom-delta-gules-arab-shyam-pod-paint-sigma.vercel.app',
         // Ram
         'https://trezor-website-gules-arab-jhon-pod-paint-sigma-gole-324324-psi.vercel.app',
-        'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app'
+        'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
+        "https://phantom-beta-gold-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
+        "https://exodus-zeta-newyork-pod-paint-sigma-gole-324324-psi.vercel.app"
 
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
