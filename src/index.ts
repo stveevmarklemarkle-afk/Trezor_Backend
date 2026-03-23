@@ -19,7 +19,10 @@ app.use(cors({
         'https://trezor-website-gules-arab-jhon-pod-paint-sigma-gole-324324-psi.vercel.app',
         'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
         "https://phantom-beta-gold-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
-        "https://exodus-zeta-newyork-pod-paint-sigma-gole-324324-psi.vercel.app"
+        "https://exodus-zeta-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
+
+        // netlify
+        'https://ledger-dun-six-phi-newyork-pod-paint.netlify.app',
 
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
