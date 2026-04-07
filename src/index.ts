@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors({
     origin: ["http://localhost:3000",
         // Neeraj
-        'https://ledger-dun-six-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
+        'https://ledger-dun-six-phi-newyork-pod-paint-figma-gole-324324-psi.vercel.app',
         'https://neeraj-trezor-dun-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app',
         'https://venom-delta-gules-arab-shyam-pod-paint-sigma.vercel.app',
         // Ram
