@@ -14,7 +14,8 @@ app.use(cors({
         // Ram
         'https://trezor-website-gules-dubai-jhon-pod-paint-river-gole-324324-psi.vercel.app',
         'https://trezor-aws-three-gules-dubai-jhon-pod-paint-river-gole.vercel.app',
-        'https://ledger-dun-six-phi-newyork-pod-paint-save-gole-324324-psi.vercel.app',
+        'https://ledger-dun-phi-newyork-pod-paint-save-gole-324324-psi.vercel.app',
+        'https://ram-ledger-aws-gules-arab-shyam-pod-paint-sigma-gole-324324-psi.vercel.app',
         "https://phantom-beta-gold-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://exodus-zeta-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
 
